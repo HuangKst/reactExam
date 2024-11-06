@@ -1,5 +1,5 @@
 # React In-class Exam, November 2024
-
+Zihan Huang 20108869
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
